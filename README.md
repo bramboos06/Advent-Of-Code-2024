@@ -18,6 +18,7 @@ Each day of the challenge is stored in the main folder:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Advent-of-code-2024/blob/main/Day01/day01.ipynb)
 📄 day01.ipynb
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Advent-of-code-2024/blob/main/Day01/day01.ipynb)
 📄 day02.ipynb
 
